@@ -1,0 +1,7 @@
+# ninja log v5
+10	2539	7242498181429516	CMakeFiles/RecipeDatabaseSim.dir/main.cpp.obj	d0ecab05ae4ed751
+2705	3036	7242498186354945	RecipeDatabaseSim.exe	b5e3bc2c761bfbec
+1	2689	7242498182926383	CMakeFiles/RecipeDatabaseSim.dir/CookingOrderProcessor.cpp.obj	7c094d1efe45e86c
+2	811	7246246500874005	CMakeFiles/RecipeDatabaseSim.dir/main.cpp.obj	62c06d867598e232
+7	900	7246246501744190	CMakeFiles/RecipeDatabaseSim.dir/CookingOrderProcessor.cpp.obj	305585bafae61e71
+900	1240	7246246505124954	RecipeDatabaseSim.exe	6c061d2dacad7c96
