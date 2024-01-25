@@ -1,4 +1,4 @@
-# RecipeDatabaseSimulator
+# Recipe Database Simulation
  
 A simulation of a simple database operation to calculate the amount of ingredients needed for cooking orders.
 
@@ -8,3 +8,5 @@ A simulation of a simple database operation to calculate the amount of ingredien
 * Manipulated `std::cin` to read from files
 * Used maps to sort and merge data
 * Output in specified format using `std::cout`
+
+Final score: 86%
