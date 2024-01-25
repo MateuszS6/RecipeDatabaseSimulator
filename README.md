@@ -2,7 +2,7 @@
  
 A simulation of a simple database operation, developed for IN2029 Programming In C++ coursework, to calculate the amount of ingredients needed for cooking orders.
 
-# Learning Outcomes
+## Learning Outcomes
 
 * Applied theoretical knowledge and Java/Python experience
 * Manipulated `std::cin` to read from files
