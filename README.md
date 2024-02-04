@@ -5,8 +5,8 @@ A simulation of a simple database operation, developed for IN2029 Programming In
 ## Learning Outcomes
 
 * Applied theoretical knowledge and Java/Python experience
-* Manipulated `std::cin` to read from files
-* Used maps to sort and merge data
+* Manipulate `std::cin` to read from files
+* Use maps to sort and merge data
 * Output in specified format using `std::cout`
 
 Final score: 86%
