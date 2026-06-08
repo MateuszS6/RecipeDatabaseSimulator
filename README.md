@@ -15,6 +15,10 @@ This project is a simulation of a simple database operation, developed as part o
 - **Data Handling:** Employed maps to efficiently sort and merge data from multiple sources.
 - **Formatted Output:** Mastered the use of `std::cout` to produce outputs in a specified format, suitable for integration with other software.
 
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
 ## Project Structure
 
 ```
